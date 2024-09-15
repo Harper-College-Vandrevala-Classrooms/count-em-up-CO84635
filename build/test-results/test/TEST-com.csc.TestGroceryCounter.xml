@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.csc.TestGroceryCounter" tests="11" skipped="0" failures="0" errors="0" timestamp="2024-09-15T04:05:26" hostname="DESKTOP-BCECQGS" time="0.027">
+  <properties/>
+  <testcase name="testClear()" classname="com.csc.TestGroceryCounter" time="0.013"/>
+  <testcase name="testOnes()" classname="com.csc.TestGroceryCounter" time="0.001"/>
+  <testcase name="testTens()" classname="com.csc.TestGroceryCounter" time="0.0"/>
+  <testcase name="testOverflowOnesToTen()" classname="com.csc.TestGroceryCounter" time="0.001"/>
+  <testcase name="testHundredthsToTenths()" classname="com.csc.TestGroceryCounter" time="0.001"/>
+  <testcase name="testOverflowOnes()" classname="com.csc.TestGroceryCounter" time="0.0"/>
+  <testcase name="testInitialValue()" classname="com.csc.TestGroceryCounter" time="0.001"/>
+  <testcase name="testTenthsToOnes()" classname="com.csc.TestGroceryCounter" time="0.001"/>
+  <testcase name="testHundreths()" classname="com.csc.TestGroceryCounter" time="0.0"/>
+  <testcase name="testTenths()" classname="com.csc.TestGroceryCounter" time="0.0"/>
+  <testcase name="testExampleOutputOverflow()" classname="com.csc.TestGroceryCounter" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
